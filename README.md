@@ -1,17 +1,20 @@
-# habit_streak
+# 🎯 Gamified Habit & Streak Tracker [WIP]
 
-A new Flutter project.
+> **Note:** This project is currently a Work In Progress (WIP). Active development, UI refinement, and feature implementation are ongoing.
 
-## Getting Started
+## 📖 About The Project
+This cross-platform mobile application is designed to help users build discipline and maintain daily routines through gamification. Built with **Flutter** and powered by **Supabase**, the app transforms habit tracking into an engaging experience by rewarding consistency and user engagement.
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features (Currently Implemented)
+* **Gamification Engine:** Users earn Experience Points (XP) and level up based on their daily task completion.
+* **Marathon (Streak) System:** A robust streak-tracking architecture designed to boost user retention and motivation over time through competitive "marathon" runs.
+* **Minimalist UI/UX:** A highly focused, distraction-free user interface. The design strictly favors clean layouts, completely stripping away redundant screen titles and unnecessary text labels to ensure a streamlined user experience.
+* **Real-time Backend Integration:** Seamless data syncing and user management using Supabase (PostgreSQL).
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
+* **Frontend:** Flutter & Dart
+* **Backend:** Supabase
+* **Design Philosophy:** Clean, Minimal, and User-Centric
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Developed by Umut Bacik
