@@ -8,8 +8,8 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'https://ddslkpifyuihnujzahzz.supabase.co',
-    anonKey: 'sb_publishable_vsyTbsAObbq7IzZc70EyYA_JCkgAdrT',
+    url: 'URL',
+    anonKey: 'SUPABASE_ANON_KEY',
   );
 
   runApp(const ProviderScope(child: HabitStreakApp()));
